@@ -24,4 +24,7 @@ The server broadcasts messages received from one client to all other connected c
 
 # OUTPUT OF THE TASK
 
+<img width="1919" height="760" alt="Image" src="https://github.com/user-attachments/assets/8b9990c6-57b9-4f86-b308-369f6dc07745" />
+<img width="1919" height="743" alt="Image" src="https://github.com/user-attachments/assets/78d36e87-ac43-41fe-8c36-59a831403401" />
+
 
